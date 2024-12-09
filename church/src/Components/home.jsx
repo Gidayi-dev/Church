@@ -2,9 +2,9 @@
 function Home() {
     return(
         
-        <div>
-            <div>Nangoga P.A.G </div>
-            <div>
+        <div className="flex justify-between">
+            <div className="text-2xl font-bold">Nangoga P.A.G </div>
+            <div className="text-2xl flex gap-9">
             <a href="#">Home</a>
             <a href="#">About Us</a>
             <a href="#">Events</a>
