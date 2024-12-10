@@ -5,7 +5,7 @@ import Visit from "./components/visit";
 import Values from "./Components/values";
 import Footer from "./Components/footer";  // Fixed: extra quotes removed
 import Events from "./components/events";  // Fixed: renamed from 'UpcomingEvents' to 'Events'
-import Programs from "./Components/programs";  // Fixed: renamed from 'OurPrograms' to 'Programs'
+import Programs from "./components/programs";
 
 function App() {
   return (
