@@ -1,11 +1,11 @@
-import Home from './Components/home';
-import About from './Components/about';
-import Service from './Components/service';
-import Visit from './Components/visit';
-import Values from './Components/values';
-import Footer from './Components/footer';
-import UpcomingEvents from './Components/events';
-import OurPrograms from './Components/programs';
+import Home from "./Components/Home";
+import About from "./Components/About";
+import Service from "./Components/Service";
+import Visit from "./Components/Visit";
+import Values from "./Components/Values";
+import Footer from "./Components/Footer";  // Fixed: extra quotes removed
+import Events from "./Components/Events";  // Fixed: renamed from 'UpcomingEvents' to 'Events'
+import Programs from "./Components/Programs";  // Fixed: renamed from 'OurPrograms' to 'Programs'
 
 function App() {
   return (
@@ -16,8 +16,8 @@ function App() {
       <Service />
       <Visit />
       <Values />
-      <OurPrograms />
-      <UpcomingEvents />
+      <Programs />  {/* Fixed: corrected to 'Programs' */}
+      <Events />  {/* Fixed: corrected to 'Events' */}
       <Footer />
     </div>
   );
