@@ -20,19 +20,19 @@ function Footer() {
           <h3 className="text-xl font-bold mb-4">Quick Links</h3>
           <ul>
             <li className="mb-2">
-              <a href="#home" className="hover:text-purple-500">Home</a>
+              <a href="#" className="hover:text-purple-500">Home</a>
             </li>
             <li className="mb-2">
-              <a href="#about" className="hover:text-purple-500">About Us</a>
+              <a href="#" className="hover:text-purple-500">About Us</a>
             </li>
             <li className="mb-2">
-              <a href="#visit" className="hover:text-purple-500">Visit Us</a>
+              <a href="#" className="hover:text-purple-500">Visit Us</a>
             </li>
             <li className="mb-2">
-              <a href="#events" className="hover:text-purple-500">Events</a>
+              <a href="#" className="hover:text-purple-500">Events</a>
             </li>
             <li className="mb-2">
-              <a href="#programs" className="hover:text-purple-500">Our Programs</a>
+              <a href="#" className="hover:text-purple-500">Our Programs</a>
             </li>
           </ul>
         </div>
@@ -42,13 +42,13 @@ function Footer() {
           <h3 className="text-xl font-bold mb-4">Programs</h3>
           <ul>
             <li className="mb-2">
-              <a href="#kids-service" className="hover:text-purple-500">Kids Service</a>
+              <a href="#" className="hover:text-purple-500">Kids Service</a>
             </li>
             <li className="mb-2">
-              <a href="#kesha" className="hover:text-purple-500">Kesha</a>
+              <a href="#" className="hover:text-purple-500">Kesha</a>
             </li>
             <li className="mb-2">
-              <a href="#ministry" className="hover:text-purple-500">Ministry</a>
+              <a href="#" className="hover:text-purple-500">Ministry</a>
             </li>
           </ul>
         </div>
