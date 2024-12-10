@@ -1,11 +1,11 @@
-import Home from "./Components/Home";
-import About from "./Components/About";
-import Service from "./Components/Service";
-import Visit from "./Components/Visit";
-import Values from "./Components/Values";
-import Footer from "./Components/Footer";  // Fixed: extra quotes removed
-import Events from "./Components/Events";  // Fixed: renamed from 'UpcomingEvents' to 'Events'
-import Programs from "./Components/Programs";  // Fixed: renamed from 'OurPrograms' to 'Programs'
+import Home from "./components/home";
+import About from "./components/about";
+import Service from "./components/service";
+import Visit from "./components/visit";
+import Values from "./Components/values";
+import Footer from "./Components/footer";  // Fixed: extra quotes removed
+import Events from "./components/events";  // Fixed: renamed from 'UpcomingEvents' to 'Events'
+import Programs from "./Components/programs";  // Fixed: renamed from 'OurPrograms' to 'Programs'
 
 function App() {
   return (
