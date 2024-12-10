@@ -1,6 +1,6 @@
 import EventImage from "../assets/worship.jpg"; // Replace with your event image path
 
-function UpcomingEvents() {
+function Events() {
   const events = [
     {
       day: "Monday",
@@ -58,4 +58,4 @@ function UpcomingEvents() {
   );
 }
 
-export default UpcomingEvents;
+export default Events;

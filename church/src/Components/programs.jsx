@@ -1,6 +1,6 @@
 import { FaChild, FaPrayingHands, FaChurch } from "react-icons/fa"; // Importing React Icons for the programs
 
-function OurPrograms() {
+function Programs() {
   return (
     <section className="bg-gray-100 text-gray-800 py-12">
       <div className="container mx-auto px-6 text-center">
@@ -46,4 +46,4 @@ function OurPrograms() {
   );
 }
 
-export default OurPrograms;
+export default Programs;

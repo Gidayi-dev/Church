@@ -1,15 +1,16 @@
-import Home from "./Components/home";
-import About from "./Components/about";
-import Service from "./Components/service";
-import Visit from "./Components/visit";
-import Values from "./Components/values";
-import Footer from "./Components/footer";
-import UpcomingEvents from "./Components/events";
-import OurPrograms from "./Components/programs";
+import Home from './Components/home';
+import About from './Components/about';
+import Service from './Components/service';
+import Visit from './Components/visit';
+import Values from './Components/values';
+import Footer from './Components/footer';
+import UpcomingEvents from './Components/events';
+import OurPrograms from './Components/programs';
 
 function App() {
   return (
     <div>
+      {/* Components all on the same page */}
       <Home />
       <About />
       <Service />
