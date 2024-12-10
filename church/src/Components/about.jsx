@@ -12,24 +12,15 @@ function About() {
           Nangoga P.A.G Church
         </h1>
         <p className="text-gray-600 text-2xl leading-relaxed">
-          At Nangoga PAG Church, we are a welcoming community of believers
-          devoted to spreading the love and teachings of Jesus Christ. Rooted in
-          the Pentecostal tradition, our church is a place where lives are
-          transformed, faith is nurtured, and the presence of God is celebrated.
-          We believe in fostering genuine connections, spiritual growth, and
-          compassionate service to others. Whether you're seeking a deeper
-          understanding of your faith, a supportive community, or a space to
-          experience God’s grace, we invite you to join us as we walk this
-          journey of hope and purpose together.
+          At Nangoga PAG Church, we are a welcoming community of believers devoted to spreading the love and teachings of Jesus Christ. Rooted in the Pentecostal tradition, our church is a place where lives are transformed, faith is nurtured, and the presence of God is celebrated. We believe in fostering genuine connections, spiritual growth, and compassionate service...
         </p>
       </div>
-
-      {/* Media Section */}
+      {/* Image Section */}
       <div className="md:w-1/2">
         <img
           src={AboutImage}
-          alt="About us"
-          className="rounded-lg shadow-lg w-full object-cover"
+          alt="About the Church"
+          className="w-full h-full object-cover rounded-lg shadow-lg"
         />
       </div>
     </div>

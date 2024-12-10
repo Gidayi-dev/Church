@@ -19,9 +19,7 @@ function Values() {
           <h2 className="text-2xl font-bold mb-4">Faith</h2>
           <p className="text-lg text-gray-300">
             <span className="italic">"Rooted in Christ, Guided by His Word"</span>
-            At Nangoga P.A.G Church, faith is the foundation of everything we
-            do. We believe in a deep, unwavering trust in God and seek to grow
-            spiritually by living according to His Word and teachings.
+            At Nangoga P.A.G Church, faith is the foundation of everything we do. We believe in a deep, unwavering trust in God and seek to grow spiritually by living according to His Word and teachings.
           </p>
         </div>
         {/* Second Value */}
@@ -34,10 +32,7 @@ function Values() {
           <h2 className="text-2xl font-bold mb-4">Community</h2>
           <p className="text-lg text-gray-300">
             <span className="italic">"United in Love, Serving Together"</span>
-            We are a family of believers who support one another and embrace
-            everyone with open arms. Through fellowship, service, and genuine
-            connections, we strive to create a sense of belonging and
-            togetherness.
+            We are a family of believers who support one another and embrace everyone with open arms. Through fellowship, service, and genuine connections, we strive to create a sense of belonging and togetherness.
           </p>
         </div>
         {/* Third Value */}
@@ -50,10 +45,7 @@ function Values() {
           <h2 className="text-2xl font-bold mb-4">Transformation</h2>
           <p className="text-lg text-gray-300">
             <span className="italic">"Changed Lives, Renewed Purpose"</span>
-            We are committed to helping individuals experience transformation
-            through the love of Christ. By equipping people with spiritual tools
-            and guidance, we empower them to discover their purpose and live
-            fulfilling lives.
+            We are committed to helping individuals experience transformation through the love of Christ. By equipping people with spiritual tools and guidance, we empower them to discover their purpose and live fulfilling lives.
           </p>
         </div>
       </div>

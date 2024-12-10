@@ -31,9 +31,9 @@ function Events() {
         Upcoming Events
       </h2>
       <div className="flex flex-wrap justify-center gap-10 px-6">
-        {events.map((event, index) => (
+        {events.map((event) => (
           <div
-            key={index}
+            key={event.name} // Use a unique value as the key (e.g., event.name)
             className="max-w-md bg-white shadow-lg rounded-xl overflow-hidden transform hover:scale-105 transition-all duration-300"
           >
             <img
@@ -42,9 +42,7 @@ function Events() {
               className="w-full h-60 object-cover"
             />
             <div className="p-6">
-              <h3 className="text-xl font-semibold text-gray-800">
-                {event.day}
-              </h3>
+              <h3 className="text-xl font-semibold text-gray-800">{event.day}</h3>
               <p className="text-lg text-gray-600 font-medium">{event.name}</p>
               <p className="text-sm text-gray-500 mt-3">{event.description}</p>
             </div>
